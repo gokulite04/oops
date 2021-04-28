@@ -4,7 +4,7 @@ abstract class Bike{
 	
 	 Bike(){
 		    System.out.println("bike is created");
-		    int b=10;
+		   
 	 }  
 	 abstract void run();
 	   
