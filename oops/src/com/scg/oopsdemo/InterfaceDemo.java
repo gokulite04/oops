@@ -3,6 +3,7 @@ package com.scg.oopsdemo;
 interface Printable{
 	void print();
 	int c=10;
+	int d=100;
 }
 interface Showable{
 	void show();
